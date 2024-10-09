@@ -14,7 +14,7 @@ Airbnd_complete is a web application that replicates key features of Airbnb, bui
 - **Data Storage**: MongoDB stores user data, property listings, and booking information.
 
 ### Demo
-![-> demo](https://airbnb-clone-project-uvrh.onrender.com)
+https://airbnb-clone-project-uvrh.onrender.com
 
 ## Technology Stack
 
